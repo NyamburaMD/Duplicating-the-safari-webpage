@@ -1,6 +1,6 @@
 //hover effects and toggles
 //state 
-import React, { useState } from "react";
+import React from "react";
 
 const SafariCard = ({ image, title, description}) => {
     return (
