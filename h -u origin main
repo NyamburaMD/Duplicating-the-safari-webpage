@@ -1,0 +1,11 @@
+* [33m3d0fd0e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m finished up on safaricard and destination components
+* [33m9ddd2cd[m made safaricard shorter by using props or something
+* [33m31ad0fa[m mapped out the basic structure of safari cards
+* [33m400e83f[m created basic structure for destination component
+* [33me615ba4[m established where to use state and where to use effect
+* [33m14cf92c[m updated paths to styles
+* [33m0b90d5b[m imported react into all components
+* [33m3694e45[m updated components based on contents in App.css
+* [33m778a756[m added components
+* [33m89a6b49[m downloaded react
+* [33mcfce8fc[m Add files via upload

@@ -1,5 +1,6 @@
-
-import "./styles/App.css";
+import React from "react";
+import "../App.css";
+import Destinations from "./Components/Destinations";
 
 function App() {
   return (
@@ -7,14 +8,7 @@ function App() {
       <header className="App-header">
         <h1> Kenyan Safari Adventures </h1>
     
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Discover the Wild Heart of Africa
-        </a>
+        <a>Discover the Wild Heart of Africa</a>
       </header>
     </div>
   );
